@@ -45,7 +45,8 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 
 ## Files Included
 
-- `Sales Report Dashboard.pbix` – Power BI dashboard
+- `Sales_Performance_Dashboard.pbix` – Power BI dashboard
+- `Sales_Data.xlsx` – Source dataset
 - `Dashboard.png` – Dashboard preview
 - `README.md` – Project documentation
 
