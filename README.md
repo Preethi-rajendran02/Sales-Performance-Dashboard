@@ -7,7 +7,15 @@ This project is an interactive Power BI dashboard developed to analyze sales per
 ## Dashboard Preview
 
 ![Sales Performance Dashboard](Sales_Dashboard.png)
+## Dashboard Insights
 
+The dashboard enables users to:
+
+- Monitor Total Sales, Profit, Profit Margin, and Units Sold.
+- Identify top-performing products and customer segments.
+- Analyze monthly sales and profit trends.
+- Compare product contribution to overall sales.
+- Filter results by Year and Month for interactive analysis.
 ## Key Highlights
 
 - Developed an interactive sales performance dashboard in Microsoft Power BI.
